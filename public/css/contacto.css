@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+    font-family:'Londrina Solid', cursive;
+
+    
+}
+body{
+    font-family: 'Bangers', cursive;
+    background: center fixed url("https://i.pinimg.com/originals/25/48/bf/2548bf6970f74d0d9594e17b72bc2037.gif");
+    background-size: cover;
+    text-align: center;
+    
+}
+.mapa{
+    border-radius: 25px;
+} 
+figure{
+    display:block;
+    max-width:900px;
+    margin:auto;
+}
+.img-mapa{
+    object-fit: cover;
+}
+.titulo{
+    font-size: calc(2.5rem + 2vw);
+    margin: 3rem;
+}
+.direccion{
+    font-size: 23px;
+    padding-bottom: 13px;
+
+}
+.card2{
+    display: flex;
+    flex-direction: row;
+    place-content: center;
+    margin:5px auto 35px auto;
+    width: 75%;
+    height: 150px;
+    padding-bottom: 50px;
+    justify-content: space-evenly;
+}
+.card-1 img, .card-2 img, .card-3 img{
+    height: 100%;
+    margin: 5px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.zoom {
+ transition: transform 0.2s;
+}
+.zoom:hover{
+    transform: scale(1.2);
+}
+
+@media(min-width: 651px) and (max-width: 1000px){
+    .mapa{
+        width: 85%;
+        border-radius: 25px;
+        background-color: gray;
+        margin: 10px;
+    }
+}
+@media (max-width: 650px){
+    .titulo-modify{
+        width: 90%;
+        font-size: 1.7rem;
+        margin:10px auto;
+        
+    }
+    .direccion{
+        width: 75%;
+        margin: 15px auto;
+        font-weight: 200;
+    } 
+    .mapa{
+        height: 200px;
+        width: 85%;
+        border-radius: 25px;
+        background-color: gray;
+        margin: 10px;
+    }
+    .card2{
+        display: flex;
+        place-content: center;
+        margin: 30px auto;
+        width: 75%;
+        height: 150px;
+        justify-content: space-evenly;
+    }
+    .card2 figcaption{
+        display: none;
+    }
+    .card-1 img, .card-2 img, .card-3 img{
+        height: 65px;
+        margin: 5px;
+    }
+    
+    
+}

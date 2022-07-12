@@ -1,0 +1,240 @@
+nav {
+    font-family: 'Londrina Solid', cursive;
+}
+
+.li {
+    text-align: center;
+    line-height: 50px;
+    display: flex;
+}
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* .style-navbar {
+    background-image: url(../img/textura_de_madera_1.png);
+    background-repeat: repeat;
+} */
+header{
+    background-image: url(../img/textura_de_madera_1.png);
+}
+
+.style-navbar{
+    display: flex;
+    align-items: center;
+}
+
+.div-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.style-delivery {
+    display: flex;
+    border-color: #fff;
+    border: 2px solid;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+    margin:10px 10px;
+    width: 120px;
+    height: 70px;
+    transition: all 0.3s;
+}
+
+.style-delivery:hover {
+    display: flex;
+    background-color: white;
+    color: inherit !important;
+}
+
+.style-a {
+    color: #fff7;
+    text-decoration: none;
+    font-size: 20px;
+    justify-content: center;
+    width: 122px;
+}
+
+.style-a-2 {
+    color: #fff7;
+    text-decoration: none;
+    font-size: 20px;
+    justify-content: center;
+    width: 100px;
+   
+}
+
+.style-a:hover {
+    transition: all 0.5s;
+    color: white;
+    font-size: 22px;
+    justify-content: center;
+    display: flex;
+    width: 122px;
+
+}
+
+.style-a-2:hover {
+    transition: all 0.5s;
+    color: white;
+    font-size: 22px;
+    justify-content: center;
+    display: flex;
+    width: 100px;
+}
+
+.menu-btn {
+    display: none;
+    float: right;
+}
+
+.contmenu{
+    display: none;
+}
+.logonav img{
+    content:url(https://veramendischicken.com/public/img/logovera.webp);
+    display:block;
+}
+
+
+@media(max-width: 967px) {
+    .style-a,.style-a-2{
+        width: 100%;
+        height: 100%;
+        font-size: 30px;
+        align-items: center;
+    }
+    .style-a-2:hover {
+       
+        font-size: 25px;
+        justify-content: center;
+        display: initial;
+        width: 100%;
+        height: 100%;
+    }
+    .style-a:hover {
+       
+        font-size: 25px;
+        justify-content: center;
+        display: initial;
+        width: 100%;
+        height: 100%;
+    }
+    .style-navbar{
+        justify-content: space-evenly;
+        align-items: center;
+        margin: 0px !important;
+    }
+
+    .div-container {
+        display: none;
+    }
+    
+    .contmenu {
+        justify-content: space-between;
+        list-style: none;
+        margin: 0;
+        /* padding-top: 100px; */
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100vh;
+        transition: all .5s ease;
+        z-index: 10000;
+        display: block;
+        background-color: rgb(100, 100, 100, 0.6);
+        
+    }
+    .close{
+        margin: 10px;
+        
+    }
+   
+
+#close{
+    cursor:pointer;
+}
+    .ul {
+        width: 80%;
+        justify-content: center;
+    }
+    
+    .li {
+        display: flex;
+        flex-direction: column;
+        padding: 15px 0;
+        align-items: center !important;
+        text-align: center !important;
+        width: 100%;
+        height: 100%;
+    }
+    .contmenu .ul{
+    
+        height: 100%;
+        /* border: 2px solid; */
+        
+        display: flex;
+        flex-direction: column;
+     
+        background-image: url(../img/textura_de_madera_1.png);
+    }
+
+    .menu-btn {
+        display: block !important;
+        
+        top: 15px;
+        right: 0;
+        color: #fff;
+        float: right;
+    }
+    #iconmenu{
+        cursor: pointer;
+    }
+    .active{
+        transform:translate(+100%);
+    }
+    .opacity{
+        background-color: rgba(255, 0, 0, 0.5);
+        transition: all .5s ease;
+    }
+        
+    .style-navbar{
+        justify-content: space-between;
+        align-items: center;
+        margin: 0px !important;
+    }
+
+    .delivery {
+        width: auto !important;
+        order: -1;
+        margin: 0px !important;
+    }
+    .logonav img{
+        width:105px !important;
+        height:70px !important;
+        content:url(https://veramendischicken.com/public/img/logovera.webp) !important;
+        display:block;
+    }
+    
+}
+
+@media (max-width: 355px) {
+    .style-delivery {
+        display: none;
+    }
+     .logonav img{
+        width:105px !important;
+        height:70px !important;
+        content:url(https://veramendischicken.com/public/img/logovera.webp) !important;
+        display:block;
+    }
+   
+}

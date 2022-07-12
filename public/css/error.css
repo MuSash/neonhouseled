@@ -1,0 +1,35 @@
+.error404{
+    width: 100%;
+    height: 82vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: center fixed url("https://i.pinimg.com/originals/25/48/bf/2548bf6970f74d0d9594e17b72bc2037.gif");
+    background-size: cover;
+}
+.centro{
+    color: #fff;
+    margin: 0 auto;
+  
+}
+.centro h1{
+    font-size: 100px;
+    padding-bottom: 30px;
+}
+.centro h3{
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+.btn{
+    padding: 13px 23px ;
+    border-radius: 10px;
+}
+
+.btn-dark:hover{
+    color: #000 !important;
+    background-color: #fff;
+    transition: all .5s ease !important;
+}
+.btn{
+    transition: all .5 ease !important;
+}

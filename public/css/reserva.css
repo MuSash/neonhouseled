@@ -1,0 +1,20 @@
+*{
+    font-family:'Londrina Solid', cursive !important;
+}
+body{
+            width: 100%;
+            background: yellow;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+
+            background: center fixed url("https://i.pinimg.com/originals/25/48/bf/2548bf6970f74d0d9594e17b72bc2037.gif");
+            background-size: cover;
+        }
+        .btn-reserva{
+          border: 1px  solid #e25226;
+          background:darkgoldenrod !important;
+          opacity: .9 !important;
+          color: white !important;
+        }

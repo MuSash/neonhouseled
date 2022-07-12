@@ -1,0 +1,167 @@
+
+
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.texto{
+    padding-left: 15px;
+}
+.footer .redes{
+    display: flex;
+    flex-direction: column;
+}
+.footer .conocenos{
+    display: flex;
+    flex-direction: column;
+      
+    justify-content: center;
+}
+.footer .conocenos a{
+    text-decoration: none;
+}
+.footer .redes a{
+    text-decoration: none;
+}
+footer{
+
+    background-image: url(../img/textura_de_madera_1.png);
+
+}
+.logofooter img{
+     content:url(https://veramendischicken.com/public/img/logovera.webp);
+    display:block;
+}
+
+@media (min-width:601px) and (max-width:900px) {
+    .redes{
+        display: none !important;
+    }
+    .icons{
+        flex-direction: column;
+        align-items: center;
+        padding: 0px;
+        width: 20%;    
+    }
+    .footer{
+        display: flex;
+        justify-content: space-between !important;
+    }
+    .footer .conocenos{
+        width: 50%;
+    }
+    .footer .logofooter{
+        width: 30%;
+    }
+    .footer .conocenos{
+        display: flex;
+        flex-direction: column;
+        align-items:flex-start;    
+        justify-content: center;
+    }
+    .conocenos a{
+        text-decoration: none;
+        padding: 0px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    .style-footer{
+        padding: 2.5rem!important;
+    }
+    .logofooter img{
+         width:105px !important;
+        height:70px !important;
+        content:url(https://veramendischicken.com/public/img/logovera.webp) !important;
+        display:block;
+    }
+}
+@media (min-width:366px) and (max-width:600px) {
+    .logofooter{
+        display: none;
+    }
+    .redes{
+        display:none !important;
+    }
+    .icons{
+        flex-direction: column;
+        align-items: center;
+        padding: 0px;
+        width: 20%;    
+    }
+
+    .footer{
+        display: flex;
+        justify-content: space-between !important;
+    }
+    .footer .conocenos{
+        width: 80%;
+    }
+    .footer .conocenos{
+        display: flex;
+        flex-direction: column;
+        align-items:flex-start;    
+        justify-content: center;
+    }
+    .conocenos a{
+        text-decoration: none;
+        padding: 0px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    .style-footer{
+        padding: 2rem!important;
+    }
+    .logofooter img{
+         width:105px !important;
+        height:70px !important;
+        content:url(https://veramendischicken.com/public/img/logovera.webp) !important;
+        display:block;
+    }
+}
+
+@media (min-width:200px) and (max-width:365px) {
+    .logofooter{
+        display: none;
+    }
+    .redes{
+        display:none !important;
+    }
+    .icons{
+        flex-direction: column;
+        align-items: end;
+        padding: 0px;
+        width: 20%;    
+    }
+
+    .footer{
+        display: flex;
+        justify-content: space-between !important;
+    }
+    .footer .conocenos{
+        width: 80%;
+    }
+    .footer .conocenos{
+        display: flex;
+        flex-direction: column;
+        align-items:flex-start;    
+        justify-content: center;
+    }
+    .conocenos a{
+        text-decoration: none;
+        padding: 0px;
+        font-size: 14px;
+        cursor: pointer;
+    }
+    .style-footer{
+        padding: 2rem!important;
+    }
+    .logofooter img{
+         width:105px !important;
+        height:70px !important;
+        content:url(https://veramendischicken.com/public/img/logovera.webp) !important;
+        display:block;
+    }
+        
+
+}

@@ -1,0 +1,1 @@
+const openmenu=document.querySelector('#iconmenu');let closemenu=document.querySelector('#close');let menu=document.querySelector('#menu');openmenu.addEventListener('click',(e)=>{menu.classList.toggle('active');document.body.classList.toggle('opacity')});closemenu.addEventListener('click',(e)=>{menu.classList.toggle('active');document.body.classList.toggle('opacity')})

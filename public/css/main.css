@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Londrina Solid', cursive !important;
+}
+html {
+    scroll-behavior: smooth;
+}
+.banner {
+    width: 100%;
+    height: 82vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /*background: center fixed url(https://i.pinimg.com/originals/25/48/bf/2548bf6970f74d0d9594e17b72bc2037.gif);*/
+    background-size: cover;
+}
+video{
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+
+    top:50%;
+    left:50%;
+
+    transform: translateX(-50%) translateY(-50%);
+    z-index: -1; 
+}
+.arrow {
+    width: 15px;
+    height: 43px;
+}
+.banner h2 {
+    color: #fff;
+    font-size: 70px;
+    margin-bottom: 25px;
+}
+.slider {
+    margin-bottom: 20px;
+    position: relative;
+}
+.slider-card {
+    background-color: #000;
+    transform: scale(0.9);
+    opacity: 0.8;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+.slider .owl-item.active.center .slider-card {
+    transform: scale(1.15);
+    opacity: 1;
+    background-color: #000;
+    color: #fff;
+}
+.owl-nav .owl-next {
+    position: absolute;
+    top: calc(50% - 25px);
+    right: 0;
+    opacity: 1;
+    font-size: 30px !important;
+    z-index: 1;
+    color: #ffff !important;
+}
+.owl-nav .owl-prev {
+    position: absolute;
+    top: calc(50% - 25px);
+    left: 0;
+    opacity: 1;
+    font-size: 30px !important;
+    z-index: 1;
+    color: #fff !important;
+}
+.owl-nav.disabled {
+    display: block !important;
+}
+.owl-carousel .owl-item img {
+    border-radius: 25px;
+    aspect-ratio:16/9;
+}
+.slider .owl-item.active.center .slider-card {
+    transform: scale(1.5);
+    margin-bottom: 65px;
+    margin-top: 64px;
+}
+
+.owl-item.active.center {
+    z-index: 10000;
+}
+.owl-stage {
+    display: flex;
+    align-items: center;
+}
+.btnmenu {
+    background-color: #a5780a !important;
+    color: #fff !important;
+    border-color: #a5780a !important;
+    padding: 10px 20px !important;
+}
+.owl-carousel .combo1 {
+    content: url(https://veramendischicken.com/public/img/combo1L.webp) !important;
+}
+.owl-carousel .combo2 {
+    content: url(https://veramendischicken.com/public/img/combo2L.webp) !important;
+}
+.owl-carousel .combo3 {
+    content: url(https://veramendischicken.com/public/img/combo3L.webp) !important;
+}
+@media (min-width: 701px) and (max-width: 2000px) {
+    .banner .mobileS {
+        display: none;
+    }
+    .banner .mobileT {
+        display: none;
+    }
+}
+@media (min-width: 366px) and (max-width: 700px) {
+    .slider .owl-item.active.center .slider-card {
+        transform: scale(2.5);
+    }
+    .banner {
+        height: 70vh;
+    }
+    .banner h2 {
+        display: none;
+    }
+    .banner .mobileS {
+        font-size: 23px;
+        color: #fff;
+        margin-bottom: 0;
+    }
+    .banner .mobileT {
+        font-size: 49px;
+        color: #fff;
+    }
+    .owl-carousel .owl-item img {
+        border-radius: 10px !important;
+    }
+    .arrow {
+        width: 15px;
+        height: 30px;
+    }
+    .owl-carousel .combo1 {
+        content: url(https://veramendischicken.com/public/img/combo1.webp) !important;
+    }
+    .owl-carousel .combo2 {
+        content: url(https://veramendischicken.com/public/img/combo2.webp) !important;
+    }
+    .owl-carousel .combo3 {
+        content: url(https://veramendischicken.com/public/img/combo3.webp) !important;
+    }
+}
+@media (min-width: 200px) and (max-width: 365px) {
+    .slider .owl-item.active.center .slider-card {
+        transform: scale(2.5);
+    }
+    .banner {
+        height: 62vh;
+    }
+    .banner h2 {
+        display: none;
+    }
+    .banner .mobileS {
+        font-size: 23px;
+        color: #fff;
+        margin-bottom: 0;
+    }
+    .banner .mobileT {
+        font-size: 49px;
+        color: #fff;
+    }
+    .owl-carousel .owl-item img {
+        border-radius: 10px;
+    }
+    .arrow {
+        width: 10px;
+        height: 25px;
+    }
+    .owl-carousel .combo1 {
+        content: url(https://veramendischicken.com/public/img/combo1.webp) !important;
+    }
+    .owl-carousel .combo2 {
+        content: url(https://veramendischicken.com/public/img/combo2.webp) !important;
+    }
+    .owl-carousel .combo3 {
+        content: url(https://veramendischicken.com/public/img/combo3.webp) !important;
+    }
+}

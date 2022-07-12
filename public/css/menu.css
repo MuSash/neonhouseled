@@ -1,0 +1,59 @@
+*{
+    font-family:'Londrina Solid', cursive;
+}
+ul{
+    list-style: none; 
+    padding: 0;
+ }
+ li{
+     cursor: pointer;
+ }
+ .info .h2{
+     font-weight:bold;
+    
+ }
+ .nono{
+     font-weight:bold;
+ }
+ .bb{
+     border-bottom: 2px solid white;
+ }
+ body{
+     width: 100%;
+     background: yellow;
+     height: 100vh;
+
+
+     background: center fixed url("https://i.pinimg.com/originals/25/48/bf/2548bf6970f74d0d9594e17b72bc2037.gif");
+     background-size: cover;
+ }
+ .sub-categoria-menu {
+     overflow: hidden;
+     border-bottom-left-radius: 10px !important;
+     border-bottom-right-radius: 10px !important;
+ }
+ .card{
+     background-color: gray;
+     color: black;
+     border-radius: 5px;
+     overflow: hidden;
+ }
+ button{
+     border-radius: 10px !important;
+ }
+ .container h1{
+     color: #ffff;
+     font-size: 60px;
+     margin-bottom: 60px;
+ }
+ @media (max-width:600px) {
+     .menu li{
+         font-size: 20px;
+     }
+ }
+ .chifa li{
+     font-size: 20px;
+     text-align: center;
+     padding: 5px;
+ }
+ 
