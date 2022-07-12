@@ -1,0 +1,734 @@
+[18-Feb-2022 14:40:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '7undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:40:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '4undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:41:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '3undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:41:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '5undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:41:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '4undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:41:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '4undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:42:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '3undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:42:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '7undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:42:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '6undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:42:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '8undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:42:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '8undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:42:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '6undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:42:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '6undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:42:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '6undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:42:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', '2undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:42:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', '2undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:45:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', '1undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:47:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', '1undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:47:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', '2undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:48:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', '1undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:49:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', '1undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:50:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', '2undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:51:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', '1undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:51:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', '2undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:52:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '4undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:52:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', '5undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[18-Feb-2022 14:52:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', '2undefined')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[22-Feb-2022 14:09:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Main::robot.txt() in /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php on line 45
+[22-Feb-2022 15:14:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home3/ghxumdmy/public_html/veramendischicken/views/main/index.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/controllers/main.php(21): require_once()
+#1 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Main->mostrarVista()
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#3 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#4 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/views/main/index.php on line 1
+[22-Feb-2022 15:14:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home3/ghxumdmy/public_html/veramendischicken/views/main/index.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/controllers/main.php(21): require_once()
+#1 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Main->mostrarVista()
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#3 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#4 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/views/main/index.php on line 1
+[22-Feb-2022 15:14:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home3/ghxumdmy/public_html/veramendischicken/views/main/index.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/controllers/main.php(21): require_once()
+#1 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Main->mostrarVista()
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#3 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#4 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/views/main/index.php on line 1
+[22-Feb-2022 15:14:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home3/ghxumdmy/public_html/veramendischicken/views/main/index.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/controllers/main.php(21): require_once()
+#1 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Main->mostrarVista()
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#3 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#4 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/views/main/index.php on line 1
+[22-Feb-2022 15:14:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function phprequire_once() in /home3/ghxumdmy/public_html/veramendischicken/views/main/index.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/controllers/main.php(21): require_once()
+#1 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Main->mostrarVista()
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#3 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#4 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/views/main/index.php on line 1
+[24-Feb-2022 13:34:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/editplati.php:1) in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/editplati.php on line 22
+[03-Mar-2022 12:24:30 America/Boise] PHP Warning:  Undefined array key "id_rol" in /home3/ghxumdmy/public_html/veramendischicken/controllers/dashboard.php on line 15
+[03-Mar-2022 12:59:50 America/Boise] PHP Warning:  Undefined array key "id_rol" in /home3/ghxumdmy/public_html/veramendischicken/controllers/categoriadash.php on line 13
+[03-Mar-2022 13:40:31 America/Boise] PHP Warning:  Undefined array key "id_rol" in /home3/ghxumdmy/public_html/veramendischicken/controllers/categoriadash.php on line 13
+[03-Mar-2022 13:51:35 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 18
+[03-Mar-2022 13:51:35 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 24
+[03-Mar-2022 13:52:43 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 18
+[03-Mar-2022 13:52:43 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 24
+[03-Mar-2022 13:54:47 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 13
+[03-Mar-2022 13:54:47 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 19
+[03-Mar-2022 13:54:47 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 24
+[03-Mar-2022 13:54:47 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 25
+[03-Mar-2022 13:55:04 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 13
+[03-Mar-2022 13:55:04 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 19
+[03-Mar-2022 13:55:04 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 24
+[03-Mar-2022 13:55:04 America/Boise] PHP Warning:  Undefined array key "clase" in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/navbar.php on line 25
+[04-Mar-2022 13:20:55 America/Boise] PHP Warning:  Undefined array key "id_rol" in /home3/ghxumdmy/public_html/veramendischicken/controllers/dashboard.php on line 15
+[04-Mar-2022 13:27:00 America/Boise] PHP Warning:  Undefined array key "id_rol" in /home3/ghxumdmy/public_html/veramendischicken/controllers/dashboard.php on line 15
+[04-Mar-2022 13:39:18 America/Boise] PHP Warning:  Undefined array key "id_rol" in /home3/ghxumdmy/public_html/veramendischicken/controllers/categoriadash.php on line 13
+[08-Mar-2022 12:56:24 America/Boise] PHP Warning:  Undefined array key "id_rol" in /home3/ghxumdmy/public_html/veramendischicken/controllers/dashboard.php on line 15
+[08-Mar-2022 21:11:26 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/editsub.php:1) in /home3/ghxumdmy/public_html/veramendischicken/views/dashboard/editsub.php on line 16
+[09-Mar-2022 12:27:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:27:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:54:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:54:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:54:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:54:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:54:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:56:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:56:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:56:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:56:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:56:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:56:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:56:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:56:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 12:57:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:02:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:02:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:02:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:04:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:04:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:04:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:04:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:04:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:04:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('2', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:33:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:33:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:33:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:33:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[09-Mar-2022 13:33:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php:28
+Stack trace:
+#0 /home3/ghxumdmy/public_html/veramendischicken/views/menu/productos.php(16): ModeloProductos->allProductos('1', 'NaN')
+#1 /home3/ghxumdmy/public_html/veramendischicken/controllers/productos.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(51): Productos->mostrarVista()
+#3 /home3/ghxumdmy/public_html/veramendischicken/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/veramendischicken/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/veramendischicken/models/ModeloProductos.php on line 28
+[11-Mar-2022 12:49:44 America/Boise] PHP Warning:  Undefined array key "id_rol" in /home3/ghxumdmy/public_html/veramendischicken/controllers/dashboard.php on line 15
